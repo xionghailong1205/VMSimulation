@@ -1,0 +1,1 @@
+gcc ./memsim.c -o task2
